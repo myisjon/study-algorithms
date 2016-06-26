@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # INSERTION-SORT(A)
 # for j = 2 to A.length
 #    key = A[j]
